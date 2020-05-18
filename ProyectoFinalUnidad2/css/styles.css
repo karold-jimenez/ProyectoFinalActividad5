@@ -1,0 +1,25 @@
+#column {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+#carousel {
+    height: 500;
+    width: 800;
+}
+
+.formulario {
+    max-width: 100%;
+    width: 500;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px coral;
+    position: relative;
+}
+
+body {
+    background: -webkit-linear-gradient(to right, rgb(138, 135, 137), rgb(243, 241, 243));
+    background: linear-gradient(to right,rgb(138, 135, 137), rgb(243, 241, 243));
+}
+
